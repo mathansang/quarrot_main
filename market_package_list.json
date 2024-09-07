@@ -1,0 +1,11 @@
+{
+    "default":
+    {
+        "project_url": "https://github.com/mathansang/quarrot_default_market"
+    },
+    "mkt1":
+    {
+        "project_url": "https://github.com/mathansang/marketdata1"
+    }
+
+}
