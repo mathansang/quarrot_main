@@ -1,13 +1,15 @@
 {
-    "default":
+    "quarrot_default_market":
     {
         "project_url": "https://github.com/mathansang/quarrot_default_market",
-        "api_url": "https://api.github.com/repos/mathansang/quarrot_default_market"
-    },
-    "mkt1":
-    {
-        "project_url": "https://github.com/mathansang/marketdata1",
-        "api_url": "https://api.github.com/repos/mathansang/marketdata1"
+        "api_url": "https://api.github.com/repos/mathansang/quarrot_default_market",
+        "auth": "mathansang",
+        "email": "mathansang@naver.com",
+        "version": "1.0.0",
+        "license": "MIT",
+        "description": "This is a sample Market.",
+        "update_date": "2022-04-01T03:46:25Z",
+        "data_provider": "menual"
+         
     }
-
 }
