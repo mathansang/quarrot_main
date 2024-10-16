@@ -7,8 +7,194 @@
         "email": "minikie@naver.com",
         "version": "1.0.0",
         "license": "MIT",
-        "description": "This is a sample VBA package.",
+        "description": "This is a sample VBA package",
         "update_date": "2022-03-01T03:46:25Z"
-    }
-
+    },
+    "VBA-Better-Array":
+    {
+        "project_url": "https://github.com/Senipah/VBA-Better-Array",
+        "api_url": "https://api.github.com/repos/Senipah/VBA-Better-Array",
+        "auth": "Senipah",
+        "email": "",
+        "version": "1.8.0",
+        "license": "MIT",
+        "description": "An array class for VBA providing features found in more modern languages",
+        "update_date": "2024-10-03T15:29:42Z"
+    },
+    "excel-vba-macros":
+    {
+        "project_url": "https://github.com/ScottSchaen/excel-vba-macros",
+        "api_url": "https://api.github.com/repos/ScottSchaen/excel-vba-macros",
+        "auth": "ScottSchaen",
+        "email": "",
+        "version": "0.0.1",
+        "license": "Empty",
+        "description": "Useful Excel VBA Macros - Power user shortcuts to make Excelling more efficient!",
+        "update_date": "2024-09-17T02:41:52Z"
+    },
+    "VBA-FastDictionary":
+    {
+        "project_url": "https://github.com/cristianbuse/VBA-FastDictionary",
+        "api_url": "https://api.github.com/repos/cristianbuse/VBA-FastDictionary",
+        "auth": "cristianbuse",
+        "email": "",
+        "version": "1.1.7",
+        "license": "MIT",
+        "description": "Fast Native Dictionary for VBA compatible with Windows and Mac. Fast, cross-platform, native Dictionary. Replacement for scripting dictionary",
+        "update_date": "2024-10-03T09:01:34Z"
+    },
+    "VBA-Dictionary":
+    {
+        "project_url": "https://github.com/VBA-tools/VBA-Dictionary",
+        "api_url": "https://api.github.com/repos/VBA-tools/VBA-Dictionary",
+        "auth": "VBA-tools",
+        "email": "",
+        "version": "1.4.1",
+        "license": "MIT",
+        "description": "Drop-in replacement for Scripting.Dictionary on Mac. A dictionary object which stores key-value pairs",
+        "update_date": "2023-04-17T02:57:07Z"
+    },
+    "VBA-ExtendedDictionary":
+    {
+        "project_url": "https://github.com/SSlinky/VBA-ExtendedDictionary",
+        "api_url": "https://api.github.com/repos/SSlinky/VBA-ExtendedDictionary",
+        "auth": "SSlinky",
+        "email": "",
+        "version": "0.0.1",
+        "license": "MIT",
+        "description": "A dictionary object using Scripting.Dictionary but exposes some additional useful functionality",
+        "update_date": "2024-05-03T08:48:53Z"
+    },
+    "VBA-Math-Objects":
+    {
+        "project_url": "https://github.com/Beakerboy/VBA-Math-Objects",
+        "api_url": "https://api.github.com/repos/Beakerboy/VBA-Math-Objects",
+        "auth": "Beakerboy",
+        "email": "",
+        "version": "0.0.1",
+        "license": "Empty",
+        "description": "Object-Based mathematical operations in VBA. A matrix and vector library",
+        "update_date": "2024-02-23T21:34:15Z"
+    },
+    "VBA-float":
+    {
+        "project_url": "https://github.com/ws-garcia/VBA-float",
+        "api_url": "https://api.github.com/repos/ws-garcia/VBA-float",
+        "auth": "ws-garcia",
+        "email": "",
+        "version": "0.0.1",
+        "license": "GPL-3.0",
+        "description": "This is a class module in beta state to implement computations with large integers and reals/rationals numbers, while proposing representation of numerical values as scientific notation, allowing to obtain several cohorts for the same number (a lot of fun!). An utility to perform computations over big integers and rational numbers with thousands digits.",
+        "update_date": "2024-08-29T08:58:45Z"
+    },
+    "VBA-SQL-Library":
+    {
+        "project_url": "https://github.com/Beakerboy/VBA-SQL-Library",
+        "api_url": "https://api.github.com/repos/Beakerboy/VBA-SQL-Library",
+        "auth": "Beakerboy",
+        "email": "",
+        "version": "0.0.1",
+        "license": "Empty",
+        "description": "Object-based Database Interaction for VBA. Create SQL Statements with VBA objects instead of string concatination.",
+        "update_date": "2024-07-30T01:36:07Z"
+    },
+    "stdVBA":
+    {
+        "project_url": "https://github.com/sancarn/stdVBA",
+        "api_url": "https://api.github.com/repos/sancarn/stdVBA",
+        "auth": "sancarn",
+        "email": "",
+        "version": "0.0.1",
+        "license": "MIT",
+        "description": "VBA Standard Library - A Collection of libraries to form a common standard layer for modern VBA applications. A framework containing numerous classes for automation and utility. Focuses on code compactness and long-term maintainability.",
+        "update_date": "2024-10-10T19:17:09Z"
+    },
+    "VBCorLib":
+    {
+        "project_url": "https://github.com/kellyethridge/VBCorLib",
+        "api_url": "https://api.github.com/repos/kellyethridge/VBCorLib",
+        "auth": "kellyethridge",
+        "email": "",
+        "version": "3.2.0",
+        "license": "MIT",
+        "description": "The VBCorLib framework brings many of the powerful .NET classes to VB6.",
+        "update_date": "2021-11-26T15:33:46Z"
+    },
+    "Hidennotare":
+    {
+        "project_url": "https://github.com/RelaxTools/Hidennotare",
+        "api_url": "https://api.github.com/repos/RelaxTools/Hidennotare",
+        "auth": "RelaxTools",
+        "email": "",
+        "version": "0.0.1",
+        "license": "MIT",
+        "description": "A framework by Japanese author RelaxTools. Contains numerous classes, interfaces and forms.",
+        "update_date": "2021-03-06T02:50:36Z"
+    },
+    "VBA-JSON":
+    {
+        "project_url": "https://github.com/VBA-tools/VBA-JSON",
+        "api_url": "https://api.github.com/repos/VBA-tools/VBA-JSON",
+        "auth": "VBA-tools",
+        "email": "",
+        "version": "2.3.1",
+        "license": "MIT",
+        "description": "JSON conversion and parsing for VBA.",
+        "update_date": "2024-03-14T16:29:13Z"
+    },
+    "VBA-XML":
+    {
+        "project_url": "https://github.com/VBA-tools/VBA-XML",
+        "api_url": "https://api.github.com/repos/VBA-tools/VBA-XML",
+        "auth": "VBA-tools",
+        "email": "",
+        "version": "0.0.1",
+        "license": "MIT",
+        "description": "XML conversion and parsing for VBA.",
+        "update_date": "2022-02-21T02:22:47Z"
+    },
+    "VBA-Web":
+    {
+        "project_url": "https://github.com/VBA-tools/VBA-Web",
+        "api_url": "https://api.github.com/repos/VBA-tools/VBA-Web",
+        "auth": "VBA-tools",
+        "email": "",
+        "version": "4.1.6",
+        "license": "MIT",
+        "description": "VBA-Web: Connect VBA, Excel, Access, and Office for Windows and Mac to web services and the web.",
+        "update_date": "2024-03-14T10:17:52Z"
+    },
+    "VBA-CSV-interface":
+    {
+        "project_url": "https://github.com/ws-garcia/VBA-CSV-interface",
+        "api_url": "https://api.github.com/repos/ws-garcia/VBA-CSV-interface",
+        "auth": "ws-garcia",
+        "email": "",
+        "version": "4.4.1",
+        "license": "GPL-3.0",
+        "description": "The power you need to cleanse, filter, sort, reshape, manage and analyze data from CSV files.",
+        "update_date": "2024-09-11T14:48:43Z"
+    },
+    "VBA-Expressions":
+    {
+        "project_url": "https://github.com/ws-garcia/VBA-Expressions",
+        "api_url": "https://api.github.com/repos/ws-garcia/VBA-Expressions",
+        "auth": "ws-garcia",
+        "email": "",
+        "version": "3.2.9",
+        "license": "GPL-3.0",
+        "description": "A powerful string expression evaluator for VBA and LO Basic, which puts more than 100 mathematical, statistical, financial, date-time, logic and text manipulation functions at the user's fingertips.",
+        "update_date": "2024-09-27T00:23:24Z"
+    },
+    "Excel-ZipTools":
+    {
+        "project_url": "https://github.com/cristianbuse/Excel-ZipTools",
+        "api_url": "https://api.github.com/repos/cristianbuse/Excel-ZipTools",
+        "auth": "cristianbuse",
+        "email": "",
+        "version": "0.0.1",
+        "license": "MIT",
+        "description": "Interact with the component parts of an Excel file.",
+        "update_date": "2022-12-28T21:15:48Z"
+    },
 }
