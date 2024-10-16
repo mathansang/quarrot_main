@@ -1,6 +1,7 @@
 {
     "sample_vba_package":
     {
+        "group": "etc",
         "project_url": "https://github.com/minikie/sample_vba_package",
         "api_url": "https://api.github.com/repos/minikie/sample_vba_package",
         "auth": "minikie",
@@ -12,6 +13,7 @@
     },
     "VBA-Better-Array":
     {
+        "group": "Data Structures",
         "project_url": "https://github.com/Senipah/VBA-Better-Array",
         "api_url": "https://api.github.com/repos/Senipah/VBA-Better-Array",
         "auth": "Senipah",
@@ -23,6 +25,7 @@
     },
     "excel-vba-macros":
     {
+        "group": "Data Structures",
         "project_url": "https://github.com/ScottSchaen/excel-vba-macros",
         "api_url": "https://api.github.com/repos/ScottSchaen/excel-vba-macros",
         "auth": "ScottSchaen",
@@ -34,6 +37,7 @@
     },
     "VBA-FastDictionary":
     {
+        "group": "Data Structures",
         "project_url": "https://github.com/cristianbuse/VBA-FastDictionary",
         "api_url": "https://api.github.com/repos/cristianbuse/VBA-FastDictionary",
         "auth": "cristianbuse",
@@ -45,6 +49,7 @@
     },
     "VBA-Dictionary":
     {
+        "group": "Data Structures",
         "project_url": "https://github.com/VBA-tools/VBA-Dictionary",
         "api_url": "https://api.github.com/repos/VBA-tools/VBA-Dictionary",
         "auth": "VBA-tools",
@@ -56,6 +61,7 @@
     },
     "VBA-ExtendedDictionary":
     {
+        "group": "Data Structures",
         "project_url": "https://github.com/SSlinky/VBA-ExtendedDictionary",
         "api_url": "https://api.github.com/repos/SSlinky/VBA-ExtendedDictionary",
         "auth": "SSlinky",
@@ -67,6 +73,7 @@
     },
     "VBA-Math-Objects":
     {
+        "group": "Math",
         "project_url": "https://github.com/Beakerboy/VBA-Math-Objects",
         "api_url": "https://api.github.com/repos/Beakerboy/VBA-Math-Objects",
         "auth": "Beakerboy",
@@ -78,6 +85,7 @@
     },
     "VBA-float":
     {
+        "group": "Math",
         "project_url": "https://github.com/ws-garcia/VBA-float",
         "api_url": "https://api.github.com/repos/ws-garcia/VBA-float",
         "auth": "ws-garcia",
@@ -89,6 +97,7 @@
     },
     "VBA-SQL-Library":
     {
+        "group": "Database",
         "project_url": "https://github.com/Beakerboy/VBA-SQL-Library",
         "api_url": "https://api.github.com/repos/Beakerboy/VBA-SQL-Library",
         "auth": "Beakerboy",
@@ -100,6 +109,7 @@
     },
     "stdVBA":
     {
+        "group": "Frameworks",
         "project_url": "https://github.com/sancarn/stdVBA",
         "api_url": "https://api.github.com/repos/sancarn/stdVBA",
         "auth": "sancarn",
@@ -111,6 +121,7 @@
     },
     "VBCorLib":
     {
+        "group": "Frameworks",
         "project_url": "https://github.com/kellyethridge/VBCorLib",
         "api_url": "https://api.github.com/repos/kellyethridge/VBCorLib",
         "auth": "kellyethridge",
@@ -122,6 +133,7 @@
     },
     "Hidennotare":
     {
+        "group": "Frameworks",
         "project_url": "https://github.com/RelaxTools/Hidennotare",
         "api_url": "https://api.github.com/repos/RelaxTools/Hidennotare",
         "auth": "RelaxTools",
@@ -133,6 +145,7 @@
     },
     "VBA-JSON":
     {
+        "group": "Data Formats",
         "project_url": "https://github.com/VBA-tools/VBA-JSON",
         "api_url": "https://api.github.com/repos/VBA-tools/VBA-JSON",
         "auth": "VBA-tools",
@@ -144,6 +157,7 @@
     },
     "VBA-XML":
     {
+        "group": "Data Formats",
         "project_url": "https://github.com/VBA-tools/VBA-XML",
         "api_url": "https://api.github.com/repos/VBA-tools/VBA-XML",
         "auth": "VBA-tools",
@@ -155,6 +169,7 @@
     },
     "VBA-Web":
     {
+        "group": "Web",
         "project_url": "https://github.com/VBA-tools/VBA-Web",
         "api_url": "https://api.github.com/repos/VBA-tools/VBA-Web",
         "auth": "VBA-tools",
@@ -166,6 +181,7 @@
     },
     "VBA-CSV-interface":
     {
+        "group": "Data Formats",
         "project_url": "https://github.com/ws-garcia/VBA-CSV-interface",
         "api_url": "https://api.github.com/repos/ws-garcia/VBA-CSV-interface",
         "auth": "ws-garcia",
@@ -177,6 +193,7 @@
     },
     "VBA-Expressions":
     {
+        "group": "Parsers",
         "project_url": "https://github.com/ws-garcia/VBA-Expressions",
         "api_url": "https://api.github.com/repos/ws-garcia/VBA-Expressions",
         "auth": "ws-garcia",
@@ -188,6 +205,7 @@
     },
     "Excel-ZipTools":
     {
+        "group": "Data Formats",
         "project_url": "https://github.com/cristianbuse/Excel-ZipTools",
         "api_url": "https://api.github.com/repos/cristianbuse/Excel-ZipTools",
         "auth": "cristianbuse",
@@ -196,5 +214,17 @@
         "license": "MIT",
         "description": "Interact with the component parts of an Excel file.",
         "update_date": "2022-12-28T21:15:48Z"
+    },
+    "vba-option-pricing":
+    {
+        "group": "Finance",
+        "project_url": "https://github.com/mrkmgl/vba-option-pricing",
+        "api_url": "https://api.github.com/repos/mrkmgl/vba-option-pricing",
+        "auth": "mrkmgl",
+        "email": "",
+        "version": "0.0.1",
+        "license": "Empty",
+        "description": "Option Pricing in VBA: CRR and Black-Scholes with Sensitivity Analysis.",
+        "update_date": "2020-12-22T16:54:42Z"
     },
 }
