@@ -1,0 +1,42 @@
+namespace='qr'
+functionName='FixedFloatSwap'
+description='A fixed-for-floating swap occurs when one party swaps the interest cash flow of a fixed-rate loan with those of a floating-rate loan held by another party'
+
+[arguments]
+# header 는 code내
+valueDate=['DateTime', '', '']
+inputData=['Dict', '', '']
+pricingRuleDict=['Dict', '', '']
+pricingData=['Table', '', '']
+outputType=['String', '', '']
+optionArg=['String', '', '']
+
+
+[[samples]]
+name='irskrw'
+description='irskrw - vanilla swap'
+
+valueDate='2024-10-11'
+
+[samples.inputData]
+notional=100
+fixedRate=0.03
+swap_type='irskrw'
+
+[samples.pricingRuleDict]
+forcastingCurve='swap_krw_cmt'
+discountCurve='swap_krw_cd'
+indexFixing='index_krw_cmt10y'
+
+
+[samples.pricingData]
+columns=[
+    ['swap_krw_cmt.date', '2024-11-28', '2024-11-28', '2024-11-28'],
+    ['swap_krw_cmt.rate', 0.03, 0.03, 0.03],
+    ['index_krw_cmt10y.date', '2024-11-28'],
+    ['index_krw_cmt10y.fixing', 0.031]
+    ]
+
+
+
+

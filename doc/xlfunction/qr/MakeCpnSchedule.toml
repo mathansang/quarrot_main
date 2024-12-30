@@ -1,0 +1,20 @@
+namespace='qr'
+functionName='MakeCpnSchedule'
+description='build schedule for coupon'
+
+[arguments]
+# header 는 code내
+refDate=['DateTime', '', '']
+maturityTenor=['Period', '', '']
+cpnTenor=['Period', '', '']
+resetTenor=['Period', '', '']
+calendar=['Calendar', '', '']
+convention=['BusinessDayConvention', '', '']
+rule=['String', '', '']
+endOfMonth=['Bool', '', '']
+fixingDays=['Int', '', '']
+paymentLag=['Int', '', '']
+
+
+
+
